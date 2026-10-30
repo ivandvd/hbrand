@@ -1,0 +1,41 @@
+{
+  "color": {
+    "neon": "#CCFF00",
+    "ink": "#0A0A0A",
+    "white": "#FFFFFF",
+    "paper": "#F4F5F0",
+    "slate": "#62685D",
+    "line": "#D9DCD2",
+    "success": "#177A46",
+    "warning": "#A86200",
+    "danger": "#B42318"
+  },
+  "font": {
+    "sans": "Manrope",
+    "mono": "IBM Plex Mono"
+  },
+  "space": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96
+  ],
+  "radius": {
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "pill": 999
+  },
+  "motion": {
+    "uiMs": 180,
+    "revealMs": 600,
+    "ambientMs": 4000,
+    "ease": "cubic-bezier(0.22, 1, 0.36, 1)"
+  },
+  "notes": "Visual identity tokens. Technical network configuration is not specified."
+}

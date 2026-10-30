@@ -1,0 +1,18 @@
+:root {
+  --hw-neon: #CCFF00;
+  --hw-ink: #0A0A0A;
+  --hw-white: #FFFFFF;
+  --hw-paper: #F4F5F0;
+  --hw-slate: #62685D;
+  --hw-line: #D9DCD2;
+  --hw-success: #177A46;
+  --hw-warning: #A86200;
+  --hw-danger: #B42318;
+  --hw-font-sans: "Manrope", Arial, sans-serif;
+  --hw-font-mono: "IBM Plex Mono", monospace;
+  --hw-radius: 16px;
+  --hw-ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+@media (prefers-reduced-motion: reduce) {
+  .hw-ambient { animation: none; }
+}
